@@ -1,0 +1,34 @@
+{
+        "name": "[Your Name]",
+        "about": "Hi! I’m Brian Kioko a web developer and software enthusiast with a passion for freelance work and DevOps.",
+        "whatIDo": "I specialize in building responsive, user-friendly websites\n using HTML, CSS, JavaScript, and frameworks like React and Node.js.\n I also develop backend solutions using JavaScript and Python.\n",
+        "skills": [
+            {
+                "name": "HTML",
+                "proficiency": 90
+            },
+            {
+                "name": "CSS",
+                "proficiency": 80
+            },
+            {
+                "name": "JavaScript",
+                "proficiency": 85
+            },
+            {
+                "name": "React",
+                "proficiency": 75
+            },
+            {
+                "name": "Node.js",
+                "proficiency": 70
+            },
+            {
+                "name": "Python",
+                "proficiency": 65
+            }
+        ],
+        "connect": "If you’re looking for a web developer with strong writing and SEO skills, let’s connect!",
+        "imageSource": "images/about/brian.jpg"
+    
+}

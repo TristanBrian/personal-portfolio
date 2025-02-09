@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://linkedin.com/in/tristan-bryan-0986372b9/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/TristanBrian"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:lessusbrian7@gmail.com"
+        }
+    ]
+}
